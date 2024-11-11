@@ -3,7 +3,7 @@
 Hi :wave:! Below are some projects and organizations I belong to that will give you an idea of the things I like to work on:
  - [keypost.io](https://github.com/keypost-org) A developer and CI/CD friendly password manager.
  - [Slackcrypt](https://github.com/jeffrade/slackrypt) End-to-end encrypted messaging in Slack.
- - [flashpaper-rs](https://github.com/jeffrade/flashpaper-rs) cryptographic secret sharing (hosted at [flashpaper.dev](https://flashpaper.dev)).
+ - [flashpaper-rs](https://github.com/jeffrade/flashpaper-rs) cryptographic secret sharing.
 
 For most of my other work, see my [repositories](https://github.com/jeffrade?tab=repositories&q=&type=source&language=&sort=stargazers) or to learn more about me, visit my [about page](https://jeffra.de/).
 
