@@ -9,7 +9,5 @@ For most of my other work, see my [repositories](https://github.com/jeffrade?tab
 
 <a href="https://www.linkedin.com/in/jeffrade/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jeffrade" />
-<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrade&layout=compact"/>
 <br/>
